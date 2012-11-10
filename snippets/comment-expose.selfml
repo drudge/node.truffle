@@ -1,0 +1,12 @@
+(name [comment expose])
+
+(trigger
+    (tab ce))
+
+(only-in source.js)
+
+(snippet [/**
+ * Expose `%{1}`.
+ */
+
+%{0}])
