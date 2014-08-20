@@ -1,0 +1,10 @@
+(name [fn new Error()])
+
+(blessed true)
+
+(trigger
+    (tab fe))
+
+(only-in source.js)
+
+(snippet [return %{1="fn"}(new Error('%{2}'));])

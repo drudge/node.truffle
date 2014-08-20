@@ -8,6 +8,6 @@
 (only-in source.js)
 
 (snippet [/**
- * Expose `%{1}`.
+ * Expose %{1}.
  */
 %{0}])

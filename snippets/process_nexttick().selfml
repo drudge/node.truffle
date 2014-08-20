@@ -7,6 +7,6 @@
 
 (only-in source.js)
 
-(snippet [process.nextTick(function(){
+(snippet [process.nextTick(function() {
 	%{0}
 });])

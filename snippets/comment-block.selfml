@@ -10,5 +10,4 @@
 (snippet [/**
  * %{1="Description"}
  */
-
 %{0}])

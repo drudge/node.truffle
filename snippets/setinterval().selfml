@@ -7,6 +7,6 @@
 
 (only-in source.js)
 
-(snippet [setInterval(function(){
+(snippet [setInterval(function() {
 	%{0}
 }, %{1="ms"});])

@@ -10,6 +10,6 @@
 (snippet [/*!
  * %{1="Project Name"}
  * Copyright(c) 2014 %{2="Author Name"} <%{3="Author Email"}>
- * MIT Licensed
+ * %{4="MIT Licensed"}
  */
 %{0}])
