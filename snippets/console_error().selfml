@@ -1,5 +1,7 @@
 (name [console.error()])
 
+(blessed true)
+
 (trigger
     (tab e))
 

@@ -1,5 +1,7 @@
 (name [require()])
 
+(blessed true)
+
 (trigger
     (tab r))
 

@@ -1,5 +1,7 @@
 (name [concat string])
 
+(blessed true)
+
 (trigger
     (tab c))
 

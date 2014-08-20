@@ -1,5 +1,7 @@
 (name [module dependencies])
 
+(blessed true)
+
 (trigger
     (tab md))
 

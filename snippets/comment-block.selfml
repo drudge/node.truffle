@@ -1,5 +1,7 @@
 (name [comment block])
 
+(blessed true)
+
 (trigger
     (tab cb))
 

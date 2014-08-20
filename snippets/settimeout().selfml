@@ -1,5 +1,7 @@
 (name [setTimeout()])
 
+(blessed true)
+
 (trigger
     (tab st))
 

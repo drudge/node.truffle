@@ -1,5 +1,7 @@
 (name [clearInterval()])
 
+(blessed true)
+
 (trigger
     (tab ci))
 

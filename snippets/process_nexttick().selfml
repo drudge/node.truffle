@@ -1,5 +1,7 @@
 (name [process.nextTick()])
 
+(blessed true)
+
 (trigger
     (tab nt))
 

@@ -1,5 +1,7 @@
 (name try/catch)
 
+(blessed true)
+
 (trigger
     (tab try))
 

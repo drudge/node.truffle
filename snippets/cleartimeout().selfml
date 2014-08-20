@@ -1,5 +1,7 @@
 (name [clearTimeout()])
 
+(blessed true)
+
 (trigger
     (tab ct))
 

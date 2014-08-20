@@ -1,5 +1,7 @@
 (name [throw new Error()])
 
+(blessed true)
+
 (trigger
     (tab te))
 

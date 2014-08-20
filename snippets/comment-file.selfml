@@ -1,5 +1,7 @@
 (name [comment file])
 
+(blessed true)
+
 (trigger
     (tab cf))
 
@@ -7,8 +9,7 @@
 
 (snippet [/*!
  * %{1="Project Name"}
- * Copyright(c) 2012 %{2="Author Name"} <%{3="Author Email"}>
+ * Copyright(c) 2014 %{2="Author Name"} <%{3="Author Email"}>
  * MIT Licensed
  */
-
 %{0}])

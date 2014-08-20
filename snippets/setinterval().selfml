@@ -1,5 +1,7 @@
 (name [setInterval()])
 
+(blessed true)
+
 (trigger
     (tab si))
 

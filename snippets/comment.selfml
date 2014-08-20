@@ -1,5 +1,7 @@
 (name comment)
 
+(blessed true)
+
 (trigger
     (tab c))
 
@@ -12,5 +14,4 @@
  * @return {%{4="Type"}}
  * @api %{5="public"}
  */
-
 %{0}])

@@ -1,5 +1,7 @@
 (name inherit)
 
+(blessed true)
+
 (trigger
     (tab in))
 

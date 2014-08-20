@@ -1,5 +1,7 @@
 (name [console.log()])
 
+(blessed true)
+
 (trigger
     (tab l))
 

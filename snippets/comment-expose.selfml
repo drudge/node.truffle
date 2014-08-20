@@ -1,5 +1,7 @@
 (name [comment expose])
 
+(blessed true)
+
 (trigger
     (tab ce))
 
@@ -8,5 +10,4 @@
 (snippet [/**
  * Expose `%{1}`.
  */
-
 %{0}])

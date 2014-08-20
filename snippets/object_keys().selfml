@@ -1,5 +1,7 @@
 (name [Object.keys()])
 
+(blessed true)
+
 (trigger
     (tab ok))
 
